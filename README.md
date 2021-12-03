@@ -1,6 +1,6 @@
 # Snake
 Snake game using Ruby and Gosu
-Use ⬆️ ⬇️ ⬅️ ➡️ to move the snake around the screen
+Use ⬆️ ⬇️ ⬅️ ➡️ keys to move the snake around the screen
 
 Collect green squares (apples) to grow bigger
 
